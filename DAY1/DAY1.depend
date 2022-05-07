@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651930280 source:c:\users\keert\onedrive\documents\60daysofdsa\day1\main.cpp
+	<iostream>
+	<unordered_map>
+	<algorithm>
+
